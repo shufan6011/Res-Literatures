@@ -1,2 +1,3 @@
 # Research papers are submitted to vixra.org
-# Provide explanations for the results from my research projects
+# LaTex codes are available in my private repository
+# Provide explanations for the results of my research projects
