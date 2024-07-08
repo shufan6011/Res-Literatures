@@ -1,3 +1,3 @@
-# Research papers are submitted to viXra.org and Journal of Physics & Astronomy
+# Research papers can be found on viXra.org
 # LaTex codes are available in my private repository
 # Provide explanations for the results of my research projects
